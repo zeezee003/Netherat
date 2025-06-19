@@ -6,6 +6,6 @@
 
 ## Navigation
 
-- **[Session Notes](sessions/)** — Recaps, important events, and player actions.
-- **[Wyll](Wyll/)** — Notes and lore related to Wyll and associated characters.
+- **[Session Notes](session\notes)** — Recaps, important events, and player actions.
+- **[Wyll](Wyll Woods/)** — Notes and lore related to Wyll and associated characters.
 - **[Miscellaneous Files](Miscellaneous Files/)** — Unsorted documents and campaign resources.
