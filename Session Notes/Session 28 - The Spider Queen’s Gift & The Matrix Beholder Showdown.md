@@ -19,4 +19,4 @@ This digital menace offered a tempting bargain: leave now, spare the corrupted m
 
 Unwavering, you refused the offer, initiating a brutal showdown. The fight was chaotic—magic and glitching tech warping reality itself. In a wild twist, Eoran and the legendary Dayne swapped places through some arcane glitch tied to Shadowfell’s dark magic.
 
-Dayne’s return turned the tide, pushing you to victory, but not without cost—[[D&D - Player/00 Netherat/Voro]] was struck down, unconscious from the beholder’s deadly death ray.
+Dayne’s return turned the tide, pushing you to victory, but not without cost—[[Voro]] was struck down, unconscious from the beholder’s deadly death ray.

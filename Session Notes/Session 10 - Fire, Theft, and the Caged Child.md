@@ -11,7 +11,7 @@ After a long rest, the party stopped at **[[CDXX Herbs & Such]]**, where you met
 
 Leaving [[Bellwood]] behind, your road curved toward the coast—until you crossed paths with a heavily armored group hauling a covered cart. Something was off. You followed at a distance as the group veered into the woods. When night fell, you struck.
 
-Combat erupted in the dark, steel and spell colliding. These were no mere mercs. They were the **[[Sons of Embar]]**—fanatics devoted to purging magic. [[Callum]] was shackled with an _anti-magic manacle_, and [[D&D - Player/00 Netherat/Voro]] was nearly cut down in the skirmish.
+Combat erupted in the dark, steel and spell colliding. These were no mere mercs. They were the **[[Sons of Embar]]**—fanatics devoted to purging magic. [[Callum]] was shackled with an _anti-magic manacle_, and [[Voro]] was nearly cut down in the skirmish.
 
 When the dust settled and the Sons lay dead, you approached their cart. [[Callum]], his divine sense tingling, _felt something fey_. [[Dayne]] ripped off the sheet.
 

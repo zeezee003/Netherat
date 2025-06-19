@@ -11,7 +11,7 @@ Crossing the chasm tested your resolve; [[Karlock]]’s near-fall sent a collect
 
 Suddenly, the ground shook violently as one of the massive worms burst through nearby, tearing the ceiling apart. The tunnels began collapsing, forcing a desperate sprint. At a fork, you chose the organic path over the mechanical, sliding uncontrollably down into a vast cavern with a deep underwater lake.
 
-As you fell, [[D&D - Player/00 Netherat/Voro]]’s quick spellwork saved most of the party from plunging into the frigid water, though the massive electric serpent lurking below surely watched with hungry eyes. [[Eoran]], steady on his feet, caught [[Karlock]] before he could fall.
+As you fell, [[Voro]]’s quick spellwork saved most of the party from plunging into the frigid water, though the massive electric serpent lurking below surely watched with hungry eyes. [[Eoran]], steady on his feet, caught [[Karlock]] before he could fall.
 
 On the shore, strange fish-like humanoids clad in necron-esque armor awaited—[[Kuo-Toa]], survivors of ancient battles and enslaved to the machines. A towering statue and etched stones told of a hero bearing a trident who would come to free them. The[[ Kuo-Toa]] treated [[Eoran]] like a chosen one, seating him on a ceremonial chair and leading him to a sacred beached boat.
 

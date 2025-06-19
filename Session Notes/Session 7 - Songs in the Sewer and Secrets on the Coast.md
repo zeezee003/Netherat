@@ -3,7 +3,7 @@
 
 The bone serpent lay shattered, and the party emerged from the sewers with blood on their boots and questions in their pockets. They split up—two went to answer [[Redd Grimm]]’s summons, the others to report back to [[Ciwin]] with the captured zealot.
 
-**[[D&D - Player/00 Netherat/Voro]] and [[Callum]]**, ever the loyal lackeys (and somehow forgetful), showed up at Redd’s estate empty of context. They hadn’t read the sealed letter he gave them. After some awkward small talk with the crime boss—whose smile always seems like it’s daring you to betray him—they slipped out and cracked the letter open. It instructed them to visit a tavern called _[[Rapscallion’s]]_.
+**[[Voro]] and [[Callum]]**, ever the loyal lackeys (and somehow forgetful), showed up at Redd’s estate empty of context. They hadn’t read the sealed letter he gave them. After some awkward small talk with the crime boss—whose smile always seems like it’s daring you to betray him—they slipped out and cracked the letter open. It instructed them to visit a tavern called _[[Rapscallion’s]]_.
 
 Meanwhile, **[[Dayne]], [[Galvatross]], and [[Karlock]]** delivered the unconscious zealot to [[Ciwin]]. They found him in the company of high-ranking soldiers—strange men not from [[Sarthall]], wearing the kind of armor that looks ceremonial until you see the bloodstains. [[Ciwin]] praised their efforts, confirmed that similar altars had been reported near the coast, and rewarded [[Karlock]] with a _Wand of Healing_—a rare and potent gift.
 

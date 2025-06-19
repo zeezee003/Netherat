@@ -31,9 +31,9 @@ Yet **[[Dayne]] was already unraveling.** The pressure, the possession, the trut
 
 ### _Scene Shift Again._
 
-- **[[The Helix]]**, where [[Dayne]] grew into himself. But even here, _[[D&D - Player/00 Netherat/Voro]]_’s presence couldn't reach him.
+- **[[The Helix]]**, where [[Dayne]] grew into himself. But even here, _[[Voro]]_’s presence couldn't reach him.
     
-- The shadow-possessed [[D&D - Player/00 Netherat/Voro]] stepped forward—and **attacked**.
+- The shadow-possessed [[Voro]] stepped forward—and **attacked**.
     
 
 ### _Final Scene: The Ship of the Father._
@@ -59,7 +59,7 @@ And in the quiet aftermath, [[Dayne]] saw his father—clear, proud, and vanishi
 
 But the moment left no time for rest.
 
-**[[Ciwin]] appeared**, holding the trembling form of the young elven boy—now crackling with unstable arcane energy. _The power had to go somewhere._ Before he could finish the sentence, **[[D&D - Player/00 Netherat/Voro]] stepped forward**, without hesitation, and **absorbed the raw storm into himself.**
+**[[Ciwin]] appeared**, holding the trembling form of the young elven boy—now crackling with unstable arcane energy. _The power had to go somewhere._ Before he could finish the sentence, **[[Voro]] stepped forward**, without hesitation, and **absorbed the raw storm into himself.**
 
 _And he changed._
 

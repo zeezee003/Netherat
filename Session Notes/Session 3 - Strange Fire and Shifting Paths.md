@@ -11,7 +11,7 @@ But dawn revealed something more troubling: the kobold corpses they’d left beh
 
 Avoiding the main roads, the group made for [[Sarthall]] through the woods. Just before the city gates, they buried the barrel in secret and entered the town, seeking answers.
 
-There, they met [[Jons]], the weathered captain of the guard, barking orders at young recruits. [[D&D - Player/00 Netherat/Voro]] wasted no time—showing the soldiers how a real bowman moves. He struck targets with precision, and the young martial took notice. The magic in him hadn't surfaced yet… but the moment hinted at something stirring beneath the surface.
+There, they met [[Jons]], the weathered captain of the guard, barking orders at young recruits. [[Voro]] wasted no time—showing the soldiers how a real bowman moves. He struck targets with precision, and the young martial took notice. The magic in him hadn't surfaced yet… but the moment hinted at something stirring beneath the surface.
 
 [[Jons]] agreed to help. Two guards joined the group to retrieve the hidden barrel—but when they returned to the site, they found only a hole. The barrel was gone. Just a smear of the strange purple substance remained in the dirt.
 

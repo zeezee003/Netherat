@@ -17,6 +17,6 @@ A [[colossal skeletal serpent]] erupted from the ground, bones grinding and magi
 
 The tide turned.
 
-[[D&D - Player/00 Netherat/Voro]] unleashed a hail of damage, wearing the creature down piece by piece. And then, with divine light arcing off his blade, [[Callum]] smote the beast into dust, bones shattering in a radiant blast.
+[[Voro]] unleashed a hail of damage, wearing the creature down piece by piece. And then, with divine light arcing off his blade, [[Callum]] smote the beast into dust, bones shattering in a radiant blast.
 
 The chamber fell still. One zealot remained, unconscious. The summoning had failed. But something worse now stirred in the deep.

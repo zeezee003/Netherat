@@ -80,14 +80,14 @@ A [[colossal skeletal serpent]] erupted from the ground, bones grinding and magi
 
 The tide turned.
 
-[[D&D - Player/00 Netherat/Voro]] unleashed a hail of damage, wearing the creature down piece by piece. And then, with divine light arcing off his blade, [[Callum]] smote the beast into dust, bones shattering in a radiant blast.
+[[Voro]] unleashed a hail of damage, wearing the creature down piece by piece. And then, with divine light arcing off his blade, [[Callum]] smote the beast into dust, bones shattering in a radiant blast.
 
 The chamber fell still. One zealot remained, unconscious. The summoning had failed. But something worse now stirred in the deep.
 ### _Session 7: Songs in the Sewer and Secrets on the Coast_
 
 The bone serpent lay shattered, and the party emerged from the sewers with blood on their boots and questions in their pockets. They split up—two went to answer [[Redd Grimm]]’s summons, the others to report back to [[Ciwin]] with the captured zealot.
 
-**[[D&D - Player/00 Netherat/Voro]] and [[Callum]]**, ever the loyal lackeys (and somehow forgetful), showed up at Redd’s estate empty of context. They hadn’t read the sealed letter he gave them. After some awkward small talk with the crime boss—whose smile always seems like it’s daring you to betray him—they slipped out and cracked the letter open. It instructed them to visit a tavern called _[[Rapscallion’s]]_.
+**[[Voro]] and [[Callum]]**, ever the loyal lackeys (and somehow forgetful), showed up at Redd’s estate empty of context. They hadn’t read the sealed letter he gave them. After some awkward small talk with the crime boss—whose smile always seems like it’s daring you to betray him—they slipped out and cracked the letter open. It instructed them to visit a tavern called _[[Rapscallion’s]]_.
 
 Meanwhile, **[[Dayne]], [[Galvatross]], and [[Karlock]]** delivered the unconscious zealot to [[Ciwin]]. They found him in the company of high-ranking soldiers—strange men not from [[Sarthall]], wearing the kind of armor that looks ceremonial until you see the bloodstains. [[Ciwin]] praised their efforts, confirmed that similar altars had been reported near the coast, and rewarded [[Karlock]] with a _Wand of Healing_—a rare and potent gift.
 
@@ -144,7 +144,7 @@ After a long rest, the party stopped at **[[CDXX Herbs & Such]]**, where you met
 
 Leaving [[Bellwood]] behind, your road curved toward the coast—until you crossed paths with a heavily armored group hauling a covered cart. Something was off. You followed at a distance as the group veered into the woods. When night fell, you struck.
 
-Combat erupted in the dark, steel and spell colliding. These were no mere mercs. They were the **[[Sons of Embar]]**—fanatics devoted to purging magic. [[Callum]] was shackled with an _anti-magic manacle_, and [[D&D - Player/00 Netherat/Voro]] was nearly cut down in the skirmish.
+Combat erupted in the dark, steel and spell colliding. These were no mere mercs. They were the **[[Sons of Embar]]**—fanatics devoted to purging magic. [[Callum]] was shackled with an _anti-magic manacle_, and [[Voro]] was nearly cut down in the skirmish.
 
 When the dust settled and the Sons lay dead, you approached their cart. [[Callum]], his divine sense tingling, _felt something fey_. [[Dayne]] ripped off the sheet.
 
@@ -239,9 +239,9 @@ Yet **[[Dayne]] was already unraveling.** The pressure, the possession, the trut
 
 ### _Scene Shift Again._
 
-- **[[The Helix]]**, where [[Dayne]] grew into himself. But even here, _[[D&D - Player/00 Netherat/Voro]]_’s presence couldn't reach him.
+- **[[The Helix]]**, where [[Dayne]] grew into himself. But even here, _[[Voro]]_’s presence couldn't reach him.
     
-- The shadow-possessed [[D&D - Player/00 Netherat/Voro]] stepped forward—and **attacked**.
+- The shadow-possessed [[Voro]] stepped forward—and **attacked**.
     
 
 ### _Final Scene: The Ship of the Father._
@@ -267,7 +267,7 @@ And in the quiet aftermath, [[Dayne]] saw his father—clear, proud, and vanishi
 
 But the moment left no time for rest.
 
-**[[Ciwin]] appeared**, holding the trembling form of the young elven boy—now crackling with unstable arcane energy. _The power had to go somewhere._ Before he could finish the sentence, **[[D&D - Player/00 Netherat/Voro]] stepped forward**, without hesitation, and **absorbed the raw storm into himself.**
+**[[Ciwin]] appeared**, holding the trembling form of the young elven boy—now crackling with unstable arcane energy. _The power had to go somewhere._ Before he could finish the sentence, **[[Voro]] stepped forward**, without hesitation, and **absorbed the raw storm into himself.**
 
 _And he changed._
 
@@ -375,7 +375,7 @@ The party chose the quickest route to [[Sarthall]], cutting through the harsh, u
 
 Arriving at [[Sarthall]], they bypassed city guards through a risky assault and a difficult climb over the walls. Inside, the party linked up with [[Cailin]], who appeared to be working covertly against the oppressive paladins dominating the city.
 
-[[Cailin]] entrusted [[Dayne]] with a mysterious packet meant for distraction—but when crushed, it exploded, injuring several and mysteriously producing a fleeting, cryptic card. The ensuing battle with twelve paladins was brutal; [[Jingles]] emerged as the deadliest, but [[Callum]] nearly fell—saved only by [[D&D - Player/00 Netherat/Voro]]’s protective magic and swift healing.
+[[Cailin]] entrusted [[Dayne]] with a mysterious packet meant for distraction—but when crushed, it exploded, injuring several and mysteriously producing a fleeting, cryptic card. The ensuing battle with twelve paladins was brutal; [[Jingles]] emerged as the deadliest, but [[Callum]] nearly fell—saved only by [[Voro]]’s protective magic and swift healing.
 
 The session closed amidst the chaos and aftermath of this fierce conflict.
 
@@ -393,7 +393,7 @@ And that’s where the session ended—on the edge of danger and revelation.
 
 ### Session 20 Summary — _Old Friends, Ancient Gods, and Shadowed Fate_
 
-The party reunited with a familiar face, [[Red Grimm]]—the sharp-tongued owner of the Grimm family casino and a key figure in the [[Sarthall]] resistance. Tensions ran high as [[Jingles]] clashed with Redd, threatening and wounding him before [[D&D - Player/00 Netherat/Voro]] subdued [[Jingles]] with _hold person_. Just as chaos erupted, an assassin’s dart struck Redd, forcing the party to save their tenuous ally.
+The party reunited with a familiar face, [[Red Grimm]]—the sharp-tongued owner of the Grimm family casino and a key figure in the [[Sarthall]] resistance. Tensions ran high as [[Jingles]] clashed with Redd, threatening and wounding him before [[Voro]] subdued [[Jingles]] with _hold person_. Just as chaos erupted, an assassin’s dart struck Redd, forcing the party to save their tenuous ally.
 
 Underground, [[Dayne]] found himself drawn into a perilous encounter with [[Kurulmak]], an ancient god whose whispers echoed through [[Dayne]]’s mind—fixating on his broken, cursed blade. In a tense mental standoff, [[Dayne]] asserted his control, but the god’s fiery wrath consumed him, plunging him into darkness.
 
@@ -435,7 +435,7 @@ Crossing the chasm tested your resolve; [[Karlock]]’s near-fall sent a collect
 
 Suddenly, the ground shook violently as one of the massive worms burst through nearby, tearing the ceiling apart. The tunnels began collapsing, forcing a desperate sprint. At a fork, you chose the organic path over the mechanical, sliding uncontrollably down into a vast cavern with a deep underwater lake.
 
-As you fell, [[D&D - Player/00 Netherat/Voro]]’s quick spellwork saved most of the party from plunging into the frigid water, though the massive electric serpent lurking below surely watched with hungry eyes. [[Eoran]], steady on his feet, caught [[Karlock]] before he could fall.
+As you fell, [[Voro]]’s quick spellwork saved most of the party from plunging into the frigid water, though the massive electric serpent lurking below surely watched with hungry eyes. [[Eoran]], steady on his feet, caught [[Karlock]] before he could fall.
 
 On the shore, strange fish-like humanoids clad in necron-esque armor awaited—[[Kuo-Toa]], survivors of ancient battles and enslaved to the machines. A towering statue and etched stones told of a hero bearing a trident who would come to free them. The[[ Kuo-Toa]] treated [[Eoran]] like a chosen one, seating him on a ceremonial chair and leading him to a sacred beached boat.
 
@@ -504,7 +504,7 @@ This digital menace offered a tempting bargain: leave now, spare the corrupted m
 
 Unwavering, you refused the offer, initiating a brutal showdown. The fight was chaotic—magic and glitching tech warping reality itself. In a wild twist, Eoran and the legendary Dayne swapped places through some arcane glitch tied to Shadowfell’s dark magic.
 
-Dayne’s return turned the tide, pushing you to victory, but not without cost—[[D&D - Player/00 Netherat/Voro]] was struck down, unconscious from the beholder’s deadly death ray.
+Dayne’s return turned the tide, pushing you to victory, but not without cost—[[Voro]] was struck down, unconscious from the beholder’s deadly death ray.
 
 ### Session 29 Recap — _The Death of Voro, Cygnus Ascends, and the Battle of Drens Begins_
 
@@ -512,9 +512,9 @@ You pick up immediately after the brutal battle with the mechanical beholder. Wi
 
 [[Cygnus]], recognizing that the system needs a guardian to prevent future corruption, integrates himself into the machinery. He becomes the new mainframe, the heart and mind controlling the vast ecosystem of [[Netherat]]—a transformation that is both awe-inspiring and fraught with potential consequences. This move puts a literal soul into the machine, but what price might that exact on Cygnus’s own autonomy?
 
-Meanwhile, the party mourns the loss of [[D&D - Player/00 Netherat/Voro]]. Despite healing attempts, [[D&D - Player/00 Netherat/Voro]]’s life slips away, leaving a heavy silence. The emotional weight is palpable: [[Dayne]] claims [[D&D - Player/00 Netherat/Voro]]’s spellbook, a symbolic passing of knowledge and power, while [[Gal]] takes a mysterious magical orb clasped in [[D&D - Player/00 Netherat/Voro]]’s hand—an object of unknown potential that promises future narrative threads.
+Meanwhile, the party mourns the loss of [[Voro]]. Despite healing attempts, [[Voro]]’s life slips away, leaving a heavy silence. The emotional weight is palpable: [[Dayne]] claims [[Voro]]’s spellbook, a symbolic passing of knowledge and power, while [[Gal]] takes a mysterious magical orb clasped in [[Voro]]’s hand—an object of unknown potential that promises future narrative threads.
 
-The mechanical beetles descend, their cold efficiency creating a massive pyramid entombing [[D&D - Player/00 Netherat/Voro]]—an eerie, almost reverent memorial to their fallen companion. But the destruction of the area reveals the prize you’ve been hunting: the mk.1 mechanical army, dormant no longer. Hundreds of these machines awaken and march out on a ramp built from the surrounding debris, under [[Cygnus]]’s command, poised to fight in the looming war outside [[Drens]].
+The mechanical beetles descend, their cold efficiency creating a massive pyramid entombing [[Voro]]—an eerie, almost reverent memorial to their fallen companion. But the destruction of the area reveals the prize you’ve been hunting: the mk.1 mechanical army, dormant no longer. Hundreds of these machines awaken and march out on a ramp built from the surrounding debris, under [[Cygnus]]’s command, poised to fight in the looming war outside [[Drens]].
 
 [[Karlock]], drawn to [[Cygnus]]’s shell, claims his head, which transforms into a helmet—another artifact, another trophy steeped in significance.
 
@@ -547,7 +547,7 @@ After the dust settled, [[Wyll Overview]] honored the fallen, and **[[Karlock]]*
 
 As a final twist, players were offered a chance to draw from a deck of mysterious gifts. [[Karlock]], of course, drew from the **Deck of Many Things**—and was engulfed in a pillar of infernal fire.
 
-There, he faced **[[Karlock's Devil|The Devil]]** once more—the one who had first appeared after the gnome bard’s execution long ago. The devil revealed **[[Karakos]]’s true aim**: to tilt [[The Blood War]] in favor of the demons, unseating the [[Nine Hells]] and claiming dominion over all realms.
+There, he faced **[[Karlock's Devil|The Devil]]** once more—the one who had first appeared after the gnome bard’s execution long ago. The devil revealed **[[Karakos]]’s true aim**: to tilt [[the Blood War]] in favor of the demons, unseating the [[Nine Hells]] and claiming dominion over all realms.
 
 A deal was struck.
 

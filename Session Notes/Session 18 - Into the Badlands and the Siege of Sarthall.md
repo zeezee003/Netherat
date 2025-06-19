@@ -7,6 +7,6 @@ The party chose the quickest route to [[Sarthall]], cutting through the harsh, u
 
 Arriving at [[Sarthall]], they bypassed city guards through a risky assault and a difficult climb over the walls. Inside, the party linked up with [[Cailin]], who appeared to be working covertly against the oppressive paladins dominating the city.
 
-[[Cailin]] entrusted [[Dayne]] with a mysterious packet meant for distraction—but when crushed, it exploded, injuring several and mysteriously producing a fleeting, cryptic card. The ensuing battle with twelve paladins was brutal; [[Jingles]] emerged as the deadliest, but [[Callum]] nearly fell—saved only by [[D&D - Player/00 Netherat/Voro]]’s protective magic and swift healing.
+[[Cailin]] entrusted [[Dayne]] with a mysterious packet meant for distraction—but when crushed, it exploded, injuring several and mysteriously producing a fleeting, cryptic card. The ensuing battle with twelve paladins was brutal; [[Jingles]] emerged as the deadliest, but [[Callum]] nearly fell—saved only by [[Voro]]’s protective magic and swift healing.
 
 The session closed amidst the chaos and aftermath of this fierce conflict.

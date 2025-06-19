@@ -16,7 +16,7 @@ After the dust settled, [[Wyll Overview]] honored the fallen, and **[[Karlock]]*
 
 As a final twist, players were offered a chance to draw from a deck of mysterious gifts. [[Karlock]], of course, drew from the **Deck of Many Things**—and was engulfed in a pillar of infernal fire.
 
-There, he faced **[[Karlock's Devil|The Devil]]** once more—the one who had first appeared after the gnome bard’s execution long ago. The devil revealed **[[Karakos]]’s true aim**: to tilt [[The Blood War]] in favor of the demons, unseating the [[Nine Hells]] and claiming dominion over all realms.
+There, he faced **[[Karlock's Devil|The Devil]]** once more—the one who had first appeared after the gnome bard’s execution long ago. The devil revealed **[[Karakos]]’s true aim**: to tilt [[the Blood War]] in favor of the demons, unseating the [[Nine Hells]] and claiming dominion over all realms.
 
 A deal was struck.
 
